@@ -1,5 +1,13 @@
 # Hardhat project with Vue client
 
+To install node modules run:
+
+```shell
+yarn install
+cd client
+yarn install
+```
+
 Hardhad commands:
 
 ```shell
